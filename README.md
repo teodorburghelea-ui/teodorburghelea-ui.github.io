@@ -7,9 +7,9 @@ Plain HTML/CSS; no build step. Every page is a normal `.html` file you can edit 
 
 | File | Page |
 |---|---|
-| `index.html` | Home (intro, news, research themes) |
-| `research.html` | Research topics, figures, talks |
-| `publications.html` | Book, theses, journal articles |
+| `index.html` | Home: identity statement, five ideas, method, trajectory, open questions, news |
+| `research.html` | The lens + one section per idea (accepted picture vs. what we showed), open questions, talks |
+| `publications.html` | Selected papers by idea, book, theses, full list |
 | `team.html` | Group leader bio, members, alumni, collaborators, photos |
 | `teaching.html` | Courses and lecture notes |
 | `contact.html` | Address, e-mail, map |
